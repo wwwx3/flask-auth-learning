@@ -9,7 +9,9 @@ A learning-focused Flask project for understanding:
 
 ## Project Structure
 
-'''
+---
+
+```
 flask-auth-learning/
 
 ├── database/            # User & student data storage
@@ -29,6 +31,7 @@ flask-auth-learning/
 ├── app.py               # Main Flask application
 
 └── README.md
-'''
+```
+---
 
 This project is part of my backend and security foundations practice.
